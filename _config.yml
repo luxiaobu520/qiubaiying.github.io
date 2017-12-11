@@ -1,29 +1,29 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+SEOTitle: 小锋博客 | BY Blog
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: "BY, BY Blog, MDS、小锋博客, qiubaiying, 小锋, iOS, Apple, iPhone"
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不知道是哪里走错，路的尽头没有人等我"
+sidebar-avatar: img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
+# weibo_username:     luxiaobu
+zhihu_username:     luxiaobu
+github_username:    luxiaobu
+facebook_username:  zhaobu.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#twitter_username:   luxiaobu
 
 
 
@@ -58,7 +58,7 @@ kramdown:
 # Disqus settings（https://disqus.com/）
 disqus_username: qiubaiying
 
-# 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
+# 多说 将于2050年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
 # duoshuo_username: qiubaiying
 # Share component is depend on Comment so we can NOT use share only.
@@ -86,7 +86,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#E6E6FA"
 service-worker: true
 
 
@@ -95,10 +95,10 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://Google.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Google·BY",
+        href: "http://www.Google.com/u/e71990ada2fd"
     },{
         title: "Apple",
         href: "https://apple.com"
