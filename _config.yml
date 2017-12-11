@@ -1,6 +1,6 @@
 # Site settings
-title: BY Blog
-SEOTitle: 小锋博客 | BY Blog
+title: 雪锋☆梅香
+SEOTitle: 小锋博客 | 小锋
 header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: 小布
 
 # 多说 将于2050年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
