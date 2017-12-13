@@ -16,6 +16,14 @@ sidebar-avatar: img /post-bg-mma-0.png      # use absolute URL, seeing it's used
 
 
 
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: git@github.com:满打满算/满打满算.github.io.git
+  branch: master
+
+
 # SNS settings
 RSS: false
 # weibo_username:     luxiaobu
